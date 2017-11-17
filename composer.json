@@ -1,5 +1,5 @@
 {
-	"name": "netdong/xlsxReader",
+	"name": "netdong/reader-xlsx",
 	"description": "Spreadsheet reader library for Excel, OpenOffice and structured text files",
 	"keywords": ["spreadsheet", "xls", "xlsx", "ods", "csv", "excel", "openoffice"],
 	"homepage": "https://github.com/netdong/reader-xlsx",
