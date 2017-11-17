@@ -1,0 +1,26 @@
+{
+	"name": "netdong/xlsxReader",
+	"description": "Spreadsheet reader library for Excel, OpenOffice and structured text files",
+	"keywords": ["spreadsheet", "xls", "xlsx", "ods", "csv", "excel", "openoffice"],
+	"homepage": "https://github.com/netdong/xlsxReader",
+	"version": "0.1",
+	"time": "2017-11-16",
+	"type": "library",
+	"license": ["MIT"],
+	"authors": [
+		{
+			"name": "netdong",
+			"email": "netdong@gmail.com"
+		}
+	],
+	"support": {
+		"email": "netdongr@gmail.com"
+	},
+	"require": {
+		"php": ">= 5.3.0",
+		"ext-zip": "*"
+	},
+	"autoload": {
+		"classmap": ["./"]
+	}
+}
